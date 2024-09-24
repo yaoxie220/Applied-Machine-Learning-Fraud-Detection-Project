@@ -1,5 +1,5 @@
 # aml_final_project
-This is the final project for the AML at Columbia
+This is the final project for the Applied Machine Learning at Columbia
 
 Things to keep in Mind:-
 1. You can use requirements.txt if you want the exact packages that we might use.
